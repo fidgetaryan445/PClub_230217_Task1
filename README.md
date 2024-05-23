@@ -12,3 +12,4 @@ If he can earn equal profits from two different casinos, we chose the casino whe
 
 **Output :** The the number of hours he'll have to play, and the  Maximum profits Keshav can earn
 
+>Polygon Link : <https://polygon.codeforces.com/p3un2gB/m242m/k35h4v-wi11-b411>
